@@ -1,0 +1,24 @@
+{
+	"name" : "aggregate-bower",
+	"version" : "1.0.1",
+	"description" : "aggregate bower modulex modules into modulex_modules folder",
+	"author": {
+	    "name": "weekeight",
+	    "email": "benfchen0418@gmail.com"
+	},
+	"directories": {
+	"lib": "./lib/"
+	},
+	"main": "./lib/index.js",
+	"repository": {
+	"type": "git",
+	"url": "git@github.com:kissyteam/aggregate-bower.git"
+	},
+	"devDependencies": {
+	"deps-optimizer": "0.1.1lib"
+	},
+	"bugs": {
+	"url": "https://github.com/kissyteam/aggregate-bower/issues"
+	},
+	"homepage": "https://github.com/kissyteam/aggregate-bower"
+}

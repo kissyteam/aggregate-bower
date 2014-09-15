@@ -1,6 +1,6 @@
 {
 	"name" : "aggregate-bower",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
 	"description" : "aggregate bower modulex modules into modulex_modules folder",
 	"author": {
 	    "name": "weekeight",
@@ -14,8 +14,8 @@
 	"type": "git",
 	"url": "git@github.com:kissyteam/aggregate-bower.git"
 	},
-	"devDependencies": {
-	"deps-optimizer": "0.1.1lib"
+	"dependencies": {
+		"deps-optimizer": "0.1.1"
 	},
 	"bugs": {
 	"url": "https://github.com/kissyteam/aggregate-bower/issues"

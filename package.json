@@ -1,6 +1,6 @@
 {
 	"name" : "aggregate-bower",
-	"version" : "1.0.9",
+	"version" : "1.0.10",
 	"description" : "aggregate bower modulex modules into modulex_modules folder",
 	"author": {
 	    "name": "weekeight",
